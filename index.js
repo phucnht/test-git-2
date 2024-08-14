@@ -1,2 +1,3 @@
 require('./login');
+require('./dashboard');
 
